@@ -1,0 +1,18 @@
+.miniatures {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.miniatures h2 {
+	font-size: xxx-large;
+	text-align: center;
+}
+
+.miniature section {
+	text-align: center;
+}
+
+.miniature ul {
+	list-style-type: none;
+}

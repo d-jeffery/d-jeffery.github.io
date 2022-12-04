@@ -1,0 +1,18 @@
+.game {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.game h2 {
+	font-size: xxx-large;
+	text-align: center;
+}
+
+.gameslist {
+	text-align: center;
+}
+
+.gameslist ul {
+	list-style-type: none;
+}

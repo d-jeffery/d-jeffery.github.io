@@ -1,0 +1,16 @@
+.home {
+  padding: 56px 20px;
+  min-height: 100%;
+  width: 100%;
+}
+
+.home h2 {
+  font-size: xxx-large;
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  font-weight: bold;
+  line-height: 25px;
+}
