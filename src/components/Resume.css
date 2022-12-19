@@ -9,11 +9,11 @@
   text-align: center;
 }
 
-.education .school {
-  font-weight: bold;
+.contact {
+  text-align: center;
 }
 
-.skills ul {
+.skills ul, .experience ul, .awards ul {
   display: block;
   list-style-type: disc;
   padding-inline-start: 40px;
