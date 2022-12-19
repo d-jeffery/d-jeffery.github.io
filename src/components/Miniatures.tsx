@@ -6,6 +6,7 @@ function Miniatures(): JSX.Element {
   return (
     <div className="minis">
       <h2>Miniatures</h2>
+      <p>Work in progress</p>
     </div>
   )
 }
