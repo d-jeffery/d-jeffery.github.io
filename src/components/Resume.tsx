@@ -11,7 +11,7 @@ function Resume(): JSX.Element {
           <b>Senior Development Engineer</b>
         </p>
         <a
-          href="linkedin.com/in/daniel-a-jeffery"
+          href="https://linkedin.com/in/daniel-a-jeffery"
           rel="noreferrer"
           target="_blank"
         >
