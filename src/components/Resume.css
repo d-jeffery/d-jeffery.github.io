@@ -13,7 +13,7 @@
   text-align: center;
 }
 
-.skills ul, .experience ul, .awards ul {
+.skills ul, .experience ul, .education ul, .awards ul {
   display: block;
   list-style-type: disc;
   padding-inline-start: 40px;

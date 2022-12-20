@@ -51,16 +51,17 @@ function Resume(): JSX.Element {
       </section>
       <section className="education">
         <h3>Education</h3>
-        <p>
-          <b>UNSW, Sydney, AU</b> - Bachelor of Science, Computer Science
-        </p>
-        <p>Completed with Honours Class 1</p>
-        <p>
-          <b>Thesis</b> -{' '}
-          <a href="/ThesisReport.pdf" target="_blank" rel="noreferrer">
-            Game AI: Reasoning About Space
-          </a>
-        </p>
+        <ul>
+          <li><b>UNSW, Sydney, AU</b> - Bachelor of Science, Computer Science<br/>
+            Completed with Honours Class 1
+          </li>
+          <li>
+            <b>Thesis</b> -{' '}
+            <a href="/ThesisReport.pdf" target="_blank" rel="noreferrer">
+              Game AI: Reasoning About Space
+            </a>
+          </li>
+        </ul>
       </section>
       <section className="awards">
         <h3>Awards</h3>
