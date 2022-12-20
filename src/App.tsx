@@ -14,7 +14,6 @@ function App(): JSX.Element {
     <div className="App">
       <HashRouter>
         <header className="header">
-          <h1>Daniel Jeffery</h1>
           <nav>
             <NavLink to="/">Home</NavLink>
             <NavLink to="/resume">Resume</NavLink>

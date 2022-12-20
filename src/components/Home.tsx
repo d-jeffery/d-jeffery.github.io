@@ -9,7 +9,7 @@ function Home(): JSX.Element {
       <h2>
         Hello, World!
         <br />
-        I&apos;m Daniel
+        I&apos;m Daniel Jeffery
       </h2>
       <section className="intro">
         <ul>
