@@ -31,7 +31,7 @@ function Resume(): JSX.Element {
             <b>Tools:</b> Docker, Git, CI/CD workflows with Github Actions
           </li>
           <li>
-            <b>Databases:</b> DynamoDB, PostgresSQL
+            <b>Databases:</b> DynamoDB, RDS
           </li>
           <li>
             <b>Cloud:</b> AWS, CDK
