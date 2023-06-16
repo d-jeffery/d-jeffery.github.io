@@ -9,7 +9,7 @@ import Miniatures from './components/Miniatures'
 import 'reset-css'
 import './App.css'
 
-function App(): JSX.Element {
+function App(): React.ReactElement {
   return (
     <div className="App">
       <HashRouter>

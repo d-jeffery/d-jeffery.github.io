@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import './Home.css'
 
-function Home(): JSX.Element {
+function Home(): React.ReactElement {
   return (
     <div className="home">
       <h2>
@@ -29,3 +29,7 @@ function Home(): JSX.Element {
 }
 
 export default Home
+
+
+
+
