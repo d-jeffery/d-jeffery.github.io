@@ -44,9 +44,7 @@ function Games(): React.ReactElement {
               <Link to={p.link} target="_blank">{p.title}</Link>
             </iframe>
           </div>)
-
       }
-
     </div>
   )
 }

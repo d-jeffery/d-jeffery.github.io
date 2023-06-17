@@ -2,10 +2,10 @@ import React from 'react'
 
 import './Resume.css'
 
-function Resume(): JSX.Element {
+function Resume(): React.ReactElement {
   return (
     <div className="resume">
-      <h2>Resume</h2>
+      <h2>Daniel Jeffery</h2>
       <section className="contact">
         <p>
           <b>Senior Development Engineer</b>
@@ -22,19 +22,28 @@ function Resume(): JSX.Element {
         <h3>Skills</h3>
         <ul>
           <li>
-            <b>Languages:</b> Java, Typescript/JavaScript/NodeJS, Python
+            <b>Languages:</b>
+            <ul className="languages">
+              <li>
+                <b>Java:</b> Guice, Spring, JUnit, TestNG
+              </li>
+              <li>
+                <b>Typescript/Javascript:</b> React, Jest, express
+              </li>
+              <li>
+                <b>Python:</b> FastAPI
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <b>CI/CD:</b> Docker, Github Actions, AWS Codepipeline
           </li>
           <li>
-            <b>Frameworks:</b> Guice, Spring, React, FastAPI
+            <b>Databases:</b> DynamoDB, MySQL
           </li>
           <li>
-            <b>Tools:</b> Docker, Git, CI/CD workflows with Github Actions
-          </li>
-          <li>
-            <b>Databases:</b> DynamoDB, RDS
-          </li>
-          <li>
-            <b>Cloud:</b> AWS, CDK
+            <b>Cloud:</b> AWS
           </li>
         </ul>
       </section>
