@@ -13,6 +13,7 @@
     "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-image-gallery": "^1.2.12",
     "react-router": "^6.4.4",
     "react-router-dom": "^6.4.4",
     "react-scripts": "^5.0.1",
@@ -48,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-image-gallery": "^1.2.0",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",

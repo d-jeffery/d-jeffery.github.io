@@ -35,7 +35,6 @@ function Resume(): React.ReactElement {
               </li>
             </ul>
           </li>
-
           <li>
             <b>CI/CD:</b> Docker, Github Actions, AWS Codepipeline
           </li>

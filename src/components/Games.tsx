@@ -36,7 +36,7 @@ function Games(): React.ReactElement {
     <div className="games">
       <h2>Games</h2>
       <p>Collection of some games I&apos;ve made.</p>
-      <p><Link to="https://slothlikeman.itch.io/" target="_blank">You can find them all here @ my itch.io page</Link></p>
+      <p><a href="https://slothlikeman.itch.io/" target="_blank" rel="noreferrer">You can find them all here @ my itch.io page</a></p>
       {
         games.map((p, i) =>
           <div key={i}>
