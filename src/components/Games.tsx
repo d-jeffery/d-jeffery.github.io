@@ -40,7 +40,7 @@ function Games(): React.ReactElement {
       {
         games.map((p, i) =>
           <div key={i}>
-            <iframe src={p.url} width="552" height="167">
+            <iframe src={p.url} style={{width: "100%", height: "100%"}}>
               <Link to={p.link} target="_blank">{p.title}</Link>
             </iframe>
           </div>)
