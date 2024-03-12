@@ -28,7 +28,7 @@ function Resume(): React.ReactElement {
                 <b>Java:</b> Guice, Spring, JUnit, TestNG
               </li>
               <li>
-                <b>Typescript/Javascript:</b> React, Jest, express
+                <b>Typescript/Javascript:</b> Node, Jest, React
               </li>
               <li>
                 <b>Python:</b> FastAPI
